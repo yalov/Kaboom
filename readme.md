@@ -317,7 +317,8 @@ Kaboom! is a very simple mod for KSP that allows the destruction of individual p
 
 <!--- statics -->
 [LINK:russnash37]: https://forum.kerbalspaceprogram.com/index.php?/profile/77512-russnash37/ "Forums: RussNash37"  
-[LINK:russnash]: https://github.com/russnash "GitHub: russnash"  
+[LINK:russnash]: https://github.com/russnash "GitHub: russnash" 
+[LINK:vinix38]: https://github.com/vinix38 "GitHub: vinix38"  
 [LINK:tacombel]: https://github.com/Tacombel "Tacombel"  
 [LINK:flart]: https://forum.kerbalspaceprogram.com/index.php?/profile/181486-flart/ "Flart"  
 [LINK:yalov]: https://github.com/yalov "yalov"  
