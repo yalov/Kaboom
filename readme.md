@@ -69,7 +69,7 @@ Kaboom! is a very simple mod for KSP that allows the destruction of individual p
 ### Localization _work in progress_
 
 - [X]  ![][EN] English
-- [x]  ![][FR] French (Français) [GitHub: @vinix38][LINK:vinix38]  
+- [x]  ![][FR] French (Français) - _thank you [GitHub: @vinix38][LINK:vinix38]_  
 - [x]  ![][RU] Russian (Русский) - _thank you [Forums: '@flart'][LINK:flart] [Github: @yalov][LINK:yalov]_   
 - [x]  ![][ES] Spanish (Español) - _thank you [@`Tacombel`][LINK:tacombel]_  
 > - [ ]  ***your translation here***
