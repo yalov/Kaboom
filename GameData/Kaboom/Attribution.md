@@ -7,12 +7,14 @@
 # Translations
 
 - ![][EN] English - [zer0Kerbal][LINK:zer0Kerbal]
+- ![][FR] French (Français) [GitHub: @vinix38][LINK:vinix38]  
 - ![][RU] Russian - [Forums: '@flart'][LINK:flart] [Github: @yalov][LINK:yalov]
-- ![][ES] Spanish - [@`Tacombel`][LINK:tacombel]
+- ![][ES] Spanish - [@`Tacombel`][LINK:tacombel]  
 
 <!--- statics -->
 [LINK:russnash37]: https://forum.kerbalspaceprogram.com/index.php?/profile/77512-russnash37/ "Forums: RussNash37"  
 [LINK:russnash]: https://github.com/russnash "GitHub: russnash"  
+[LINK:vinix38]: https://github.com/vinix38 "GitHub: vinix38"  
 [LINK:tacombel]: https://github.com/Tacombel "Tacombel"  
 [LINK:flart]: https://forum.kerbalspaceprogram.com/index.php?/profile/181486-flart/ "Flart"  
 [LINK:yalov]: https://github.com/yalov "yalov"  
