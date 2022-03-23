@@ -29,7 +29,8 @@ namespace Kaboom
             {
                 an.attachedPart = null;
             }
-            thisPart.topNode.attachedPart = null;
+            if (thisPart?.topNode != null)
+                thisPart.topNode.attachedPart = null;
         }
 
         public static void MovePart(Part thisPart, Vector3 offset)
